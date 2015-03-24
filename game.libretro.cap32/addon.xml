@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.cap32"
+		name="Amstrad (caprice32)"
+		version="4.2"
+		provider-name="Libretro">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+                   library_android="game.libretro.cap32.so"
+                   library_linux="game.libretro.cap32.so"
+                   library_osx="game.libretro.cap32.dylib"
+                   library_windx="game.libretro.cap32.dll"
+                   library_wingl="game.libretro.cap32.dll">
+		<platforms>Amstrad</platforms>
+		<extensions>dsk</extensions>
+		<supports_vfs>true</supports_vfs>
+		<supports_no_game>false</supports_no_game>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Caprice32 v4.2</summary>
+		<description>Source: https://github.com/libretro/libretro-cap32</description>
+		<platform>all</platform>
+	</extension>
+</addon>
