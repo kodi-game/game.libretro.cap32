@@ -1,10 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.cap32)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 
@@ -40,9 +37,7 @@ externalproject_add(cap32
                     BUILD_IN_SOURCE 1)
 
 set(CAP32_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/cap32/src/cap32/cap32_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                        game.libretro.cap32${CMAKE_SHARED_LIBRARY_SUFFIX} cap32)
+                        ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.cap32 CAP32 DEPLIBS)
-add_dependencies(game.libretro.cap32 cap32)
-
-include(CPack)
+build_addon(${PROJECT_NAME} CAP32 DEPLIBS)
+add_dependencies(${PROJECT_NAME} cap32)
