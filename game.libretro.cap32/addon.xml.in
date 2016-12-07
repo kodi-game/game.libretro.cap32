@@ -17,9 +17,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Amstrad CPC (Caprice32) 4.2</summary>
-		<description>Source: https://github.com/libretro/libretro-cap32
-
-Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc</description>
+		<description>Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
