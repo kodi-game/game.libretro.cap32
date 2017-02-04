@@ -7,7 +7,7 @@
 		<setting label="30004" type="select" id="cap32_RetroJoy" values="disabled|enabled" default="disabled"/>
 		<setting label="30005" type="select" id="cap32_Statusbar" values="disabled|enabled" default="disabled"/>
 		<setting label="30006" type="select" id="cap32_autorun" values="disabled|enabled" default="disabled"/>
-		<setting label="30007" type="select" id="cap32_resolution" values="320x240|384x272|384x288|400x300|640x480|832x576|800x600|960x720|1024x768|1024x1024" default="320x240"/>
+		<setting label="30007" type="select" id="cap32_resolution" values="384x272|400x300" default="384x272"/>
 		<setting label="30008" type="select" id="cap32_scr_intensity" values="5|6|7|8|9|10|11|12|13|14|15" default="5"/>
 		<setting label="30009" type="select" id="cap32_scr_tube" values="disabled|enabled" default="disabled"/>
 	</category>
