@@ -24,5 +24,8 @@ Written by Ulrich Doewich.
 Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 	</extension>
 </addon>
