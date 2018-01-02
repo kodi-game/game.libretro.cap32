@@ -17,7 +17,11 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Amstrad CPC (Caprice32) 4.2</summary>
-		<description>Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc</description>
+		<description>Caprice32 is an emulator for the Amstrad CPC 8-bit home computer series. It faithfully imitates the CPC464, CPC664, and CPC6128 models.
+
+Written by Ulrich Doewich.
+
+Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 	</extension>
