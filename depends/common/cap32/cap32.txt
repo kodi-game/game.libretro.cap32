@@ -1,1 +1,1 @@
-cap32 https://github.com/libretro/libretro-cap32 master
+cap32 https://github.com/garbear/libretro-cap32 fix-input
