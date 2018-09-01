@@ -12,7 +12,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Amstrad</platforms>
-		<extensions>dsk|sna|zip|tap|cdt|voc</extensions>
+		<extensions>dsk|sna|zip|tap|cdt|voc|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
@@ -22,7 +22,7 @@
 
 Written by Ulrich Doewich.
 
-Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc</description>
+Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
