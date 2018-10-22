@@ -25,6 +25,7 @@ Written by Ulrich Doewich.
 Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.cap32</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
