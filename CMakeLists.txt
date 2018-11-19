@@ -4,7 +4,7 @@ project(game.libretro.cap32)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-cap32 REQUIRED)
+find_library(CAP32_LIB NAMES cap32_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(CAP32_CUSTOM_BINARY ${CAP32_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
