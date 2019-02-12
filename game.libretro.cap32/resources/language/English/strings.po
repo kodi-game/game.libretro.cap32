@@ -21,37 +21,25 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Drive:"
-msgstr ""
-
-msgctxt "#30002"
-msgid "Model:"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Ram size:"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Retro joy0"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Status Bar"
-msgstr ""
-
-msgctxt "#30006"
 msgid "Autorun"
 msgstr ""
 
-msgctxt "#30007"
+msgctxt "#30002"
+msgid "Model"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Ram size"
+msgstr ""
+
+msgctxt "#30004"
 msgid "Internal resolution"
 msgstr ""
 
-msgctxt "#30008"
-msgid "scr_intensity"
+msgctxt "#30005"
+msgid "Monitor Intensity"
 msgstr ""
 
-msgctxt "#30009"
-msgid "scr_tube"
+msgctxt "#30006"
+msgid "Monitor Type"
 msgstr ""
