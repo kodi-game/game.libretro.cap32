@@ -37,9 +37,17 @@ msgid "Internal resolution"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Monitor Intensity"
+msgid "User 1 Amstrad Joystick Config"
 msgstr ""
 
 msgctxt "#30006"
+msgid "User 2 Amstrad Joystick Config"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Monitor Intensity"
+msgstr ""
+
+msgctxt "#30008"
 msgid "Monitor Type"
 msgstr ""

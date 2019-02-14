@@ -5,7 +5,9 @@
 		<setting label="30002" type="select" id="cap32_model" values="6128|464" default="6128"/>
 		<setting label="30003" type="select" id="cap32_ram" values="128|64|192|512|576" default="128"/>
 		<setting label="30004" type="select" id="cap32_resolution" values="384x272|768x544" default="384x272"/>
-		<setting label="30005" type="select" id="cap32_scr_intensity" values="8|9|10|11|12|13|14|15|5|6|7" default="8"/>
-		<setting label="30006" type="select" id="cap32_scr_tube" values="color|green" default="color"/>
+		<setting label="30005" type="select" id="cap32_retrojoy0" values="joystick|qaop|incentive" default="joystick"/>
+		<setting label="30006" type="select" id="cap32_retrojoy1" values="joystick|qaop|incentive" default="joystick"/>
+		<setting label="30007" type="select" id="cap32_scr_intensity" values="8|9|10|11|12|13|14|15|5|6|7" default="8"/>
+		<setting label="30008" type="select" id="cap32_scr_tube" values="color|green" default="color"/>
 	</category>
 </settings>
