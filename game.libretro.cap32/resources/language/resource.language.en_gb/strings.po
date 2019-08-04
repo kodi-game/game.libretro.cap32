@@ -25,29 +25,33 @@ msgid "Autorun"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Model"
+msgid "Combo Key"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Ram size"
+msgid "CPC Language"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Internal resolution"
+msgid "Model"
 msgstr ""
 
 msgctxt "#30005"
-msgid "User 1 Amstrad Joystick Config"
+msgid "Ram size"
 msgstr ""
 
 msgctxt "#30006"
-msgid "User 2 Amstrad Joystick Config"
+msgid "User 1 Amstrad Joystick Config"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Monitor Intensity"
+msgid "User 2 Amstrad Joystick Config"
 msgstr ""
 
 msgctxt "#30008"
+msgid "Monitor Intensity"
+msgstr ""
+
+msgctxt "#30009"
 msgid "Monitor Type"
 msgstr ""
