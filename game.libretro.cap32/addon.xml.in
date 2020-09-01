@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.cap32"
 		name="Amstrad - CPC (Caprice32)"
-		version="4.5.0.7"
-		provider-name="Libretro">
+		version="4.5.0.8"
+		provider-name="Ulrich Doewich, dantoine">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.amstrad.joystick" version="1.0.0"/>

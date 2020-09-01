@@ -21,37 +21,41 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Autorun"
+msgid "Advanced > Green Phosphor blueish"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Combo Key"
+msgid "Autorun"
 msgstr ""
 
 msgctxt "#30003"
-msgid "CPC Language"
+msgid "Combo Key"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Model"
+msgid "CPC Language"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Ram size"
+msgid "Model"
 msgstr ""
 
 msgctxt "#30006"
-msgid "User 1 Amstrad Joystick Config"
+msgid "Advanced > Ram size"
 msgstr ""
 
 msgctxt "#30007"
-msgid "User 2 Amstrad Joystick Config"
+msgid "User 1 Amstrad Joystick Config"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Monitor Intensity"
+msgid "User 2 Amstrad Joystick Config"
 msgstr ""
 
 msgctxt "#30009"
+msgid "Advanced > Monitor Intensity"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Monitor Type"
 msgstr ""
