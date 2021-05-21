@@ -14,19 +14,18 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
-"(n==3) ? 3 :(n==6) ? 4 : 5;\n"
+"Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Advanced > Green Phosphor blueish"
+msgid "User 1 Amstrad Joystick Config"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Autorun"
+msgid "User 2 Amstrad Joystick Config"
 msgstr ""
 
 msgctxt "#30003"
@@ -34,7 +33,7 @@ msgid "Combo Key"
 msgstr ""
 
 msgctxt "#30004"
-msgid "CPC Language"
+msgid "Autorun"
 msgstr ""
 
 msgctxt "#30005"
@@ -46,17 +45,17 @@ msgid "Advanced > Ram size"
 msgstr ""
 
 msgctxt "#30007"
-msgid "User 1 Amstrad Joystick Config"
+msgid "Advanced > Green Phosphor blueish"
 msgstr ""
 
 msgctxt "#30008"
-msgid "User 2 Amstrad Joystick Config"
-msgstr ""
-
-msgctxt "#30009"
 msgid "Advanced > Monitor Intensity"
 msgstr ""
 
-msgctxt "#30010"
+msgctxt "#30009"
 msgid "Monitor Type"
+msgstr ""
+
+msgctxt "#30010"
+msgid "CPC Language"
 msgstr ""
