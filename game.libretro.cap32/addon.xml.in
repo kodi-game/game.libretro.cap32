@@ -17,10 +17,6 @@
 		<supports_standalone>true</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Written by Ulrich Doewich.
-
-Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc, .cpr, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.cap32</source>
@@ -28,10 +24,6 @@ Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc, .cpr, .m3u</description>
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Amstrad - CPC (Caprice32) 4.5 HI</summary>
-		<description lang="en_GB">Caprice32 is an emulator for the Amstrad CPC 8-bit home computer series. It faithfully imitates the CPC464, CPC664, and CPC6128 models.
-
-Written by Ulrich Doewich.
-
-Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc, .cpr, .m3u</description>
+		<description lang="en_GB">Caprice32 is an emulator for the Amstrad CPC 8-bit home computer series. It faithfully imitates the CPC464, CPC664, and CPC6128 models.[CR][CR]Written by Ulrich Doewich.[CR][CR]Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc, .cpr, .m3u</description>
 	</extension>
 </addon>
