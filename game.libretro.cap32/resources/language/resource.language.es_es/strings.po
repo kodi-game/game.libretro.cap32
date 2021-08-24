@@ -17,6 +17,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
+msgctxt "Addon Summary"
+msgid "Amstrad - CPC (Caprice32) 4.5 HI"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Caprice32 is an emulator for the Amstrad CPC 8-bit home computer series. It faithfully imitates the CPC464, CPC664, and CPC6128 models.
+
+Written by Ulrich Doewich.
+
+Supported files: .dsk, .sna, .zip, .tap, .cdt, .voc, .cpr, .m3u"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Ajustes"
