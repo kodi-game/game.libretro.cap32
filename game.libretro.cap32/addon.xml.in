@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.cap32"
 		name="Amstrad - CPC (Caprice32)"
-		version="4.5.0.15"
+		version="4.5.0.16"
 		provider-name="Ulrich Doewich, dantoine">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,6 +15,7 @@
 		<extensions>dsk|sna|zip|tap|cdt|voc|cpr|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
