@@ -61,9 +61,17 @@ msgid "Advanced > Monitor Intensity"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Monitor Type"
+msgid "Status Bar"
 msgstr ""
 
 msgctxt "#30010"
+msgid "Floppy Sound"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Monitor Type"
+msgstr ""
+
+msgctxt "#30012"
 msgid "CPC Language"
 msgstr ""
