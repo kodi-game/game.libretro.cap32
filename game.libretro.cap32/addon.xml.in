@@ -24,8 +24,8 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<disclaimer>Written by Ulrich Doewich</disclaimer>
 		<summary lang="en_GB">Amstrad - CPC (Caprice32) 4.5 HI</summary>
 		<description lang="en_GB">Caprice32 is an emulator for the Amstrad CPC 8-bit home computer series. It faithfully imitates the CPC464, CPC664, and CPC6128 models.</description>
+		<disclaimer lang="en_GB">Written by Ulrich Doewich</disclaimer>
 	</extension>
 </addon>
