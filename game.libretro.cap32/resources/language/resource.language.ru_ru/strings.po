@@ -25,6 +25,10 @@ msgctxt "Addon Description"
 msgid "Caprice32 is an emulator for the Amstrad CPC 8-bit home computer series. It faithfully imitates the CPC464, CPC664, and CPC6128 models."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Written by Ulrich Doewich"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Настройки"
