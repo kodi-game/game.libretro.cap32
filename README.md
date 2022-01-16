@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/kodi-game/game.libretro.cap32.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.cap32)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.cap32?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-cap32)
 
-# Amstrad - CPC (Caprice32)
+# Amstrad - CPC/GX4000 (Caprice32)
 
 ### Description
 
