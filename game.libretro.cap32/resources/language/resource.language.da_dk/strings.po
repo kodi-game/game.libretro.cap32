@@ -46,12 +46,12 @@ msgid "Combo Key"
 msgstr "Kombinationstast"
 
 msgctxt "#30004"
-msgid "Autorun"
-msgstr "Kør automatisk"
+msgid "Model"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Model"
-msgstr "Model"
+msgid "Advanced > Autorun"
+msgstr ""
 
 msgctxt "#30006"
 msgid "Advanced > Ram size"
@@ -80,3 +80,11 @@ msgstr "Skærmtype"
 msgctxt "#30012"
 msgid "CPC Language"
 msgstr "CPC sprog"
+
+#~ msgctxt "#30004"
+#~ msgid "Autorun"
+#~ msgstr "Kør automatisk"
+
+#~ msgctxt "#30005"
+#~ msgid "Model"
+#~ msgstr "Model"

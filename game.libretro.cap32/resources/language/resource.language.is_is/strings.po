@@ -45,11 +45,11 @@ msgid "Combo Key"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Autorun"
+msgid "Model"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Model"
+msgid "Advanced > Autorun"
 msgstr ""
 
 msgctxt "#30006"
