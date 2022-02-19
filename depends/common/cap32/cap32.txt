@@ -1,1 +1,1 @@
-cap32 https://github.com/libretro/libretro-cap32/archive/b8f09a0c5994f5ba88e2cd88d904ade76f931328.tar.gz
+cap32 https://github.com/libretro/libretro-cap32/archive/dc70139d067291cccf7ce726dfa1da7de2f65ccf.tar.gz
