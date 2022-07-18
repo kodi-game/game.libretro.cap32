@@ -34,57 +34,109 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "User 1 Amstrad Joystick Config"
-msgstr "Bruger 1 Amstrad Joystick konfiguration"
+msgid "Controls > User 1 Controller Config"
+msgstr ""
 
 msgctxt "#30002"
-msgid "User 2 Amstrad Joystick Config"
-msgstr "Bruger 2 Amstrad Joystick konfiguration"
+msgid "Controls > User 2 Controller Config"
+msgstr ""
 
 msgctxt "#30003"
-msgid "Combo Key"
-msgstr "Kombinationstast"
+msgid "Controls > Combo Key"
+msgstr ""
 
 msgctxt "#30004"
+msgid "Controls > Use internal Remap DB"
+msgstr ""
+
+msgctxt "#30005"
 msgid "Model"
 msgstr "Model"
 
-msgctxt "#30005"
-msgid "Advanced > Autorun"
-msgstr "Avanceret > Kør automatisk"
-
 msgctxt "#30006"
-msgid "Advanced > Ram size"
-msgstr "Avanceret > RAM-størrelse"
+msgid "Advanced > Autorun"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Advanced > Green Phosphor blueish"
-msgstr "Avanceret > Grøn fosfor blåligt"
+msgid "Advanced > Ram size"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Advanced > Monitor Intensity"
-msgstr "Avanceret > Intensitet på monitor"
+msgid "Video > Green Phosphor blueish"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Status Bar"
-msgstr "Statuslinje"
+msgid "Video > Monitor Intensity"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Floppy Sound"
-msgstr "Floppy-lyd"
+msgid "Video Advanced > Color Depth"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Monitor Type"
-msgstr "Skærmtype"
+msgid "Status Bar"
+msgstr ""
 
 msgctxt "#30012"
+msgid "Floppy Sound"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Monitor Type"
+msgstr ""
+
+msgctxt "#30014"
 msgid "CPC Language"
-msgstr "CPC sprog"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "User 1 Amstrad Joystick Config"
+#~ msgstr "Bruger 1 Amstrad Joystick konfiguration"
+
+#~ msgctxt "#30002"
+#~ msgid "User 2 Amstrad Joystick Config"
+#~ msgstr "Bruger 2 Amstrad Joystick konfiguration"
+
+#~ msgctxt "#30003"
+#~ msgid "Combo Key"
+#~ msgstr "Kombinationstast"
+
+#~ msgctxt "#30004"
+#~ msgid "Model"
+#~ msgstr "Model"
+
+#~ msgctxt "#30005"
+#~ msgid "Advanced > Autorun"
+#~ msgstr "Avanceret > Kør automatisk"
+
+#~ msgctxt "#30006"
+#~ msgid "Advanced > Ram size"
+#~ msgstr "Avanceret > RAM-størrelse"
+
+#~ msgctxt "#30007"
+#~ msgid "Advanced > Green Phosphor blueish"
+#~ msgstr "Avanceret > Grøn fosfor blåligt"
+
+#~ msgctxt "#30008"
+#~ msgid "Advanced > Monitor Intensity"
+#~ msgstr "Avanceret > Intensitet på monitor"
+
+#~ msgctxt "#30009"
+#~ msgid "Status Bar"
+#~ msgstr "Statuslinje"
+
+#~ msgctxt "#30010"
+#~ msgid "Floppy Sound"
+#~ msgstr "Floppy-lyd"
+
+#~ msgctxt "#30011"
+#~ msgid "Monitor Type"
+#~ msgstr "Skærmtype"
+
+#~ msgctxt "#30012"
+#~ msgid "CPC Language"
+#~ msgstr "CPC sprog"
 
 #~ msgctxt "#30004"
 #~ msgid "Autorun"
 #~ msgstr "Kør automatisk"
-
-#~ msgctxt "#30005"
-#~ msgid "Model"
-#~ msgstr "Model"

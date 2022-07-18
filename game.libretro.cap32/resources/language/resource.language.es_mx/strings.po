@@ -34,49 +34,61 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "User 1 Amstrad Joystick Config"
+msgid "Controls > User 1 Controller Config"
 msgstr ""
 
 msgctxt "#30002"
-msgid "User 2 Amstrad Joystick Config"
+msgid "Controls > User 2 Controller Config"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Combo Key"
+msgid "Controls > Combo Key"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Model"
+msgid "Controls > Use internal Remap DB"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Advanced > Autorun"
+msgid "Model"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Advanced > Ram size"
+msgid "Advanced > Autorun"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Advanced > Green Phosphor blueish"
+msgid "Advanced > Ram size"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Advanced > Monitor Intensity"
+msgid "Video > Green Phosphor blueish"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Status Bar"
-msgstr "Barra de estado"
+msgid "Video > Monitor Intensity"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Floppy Sound"
+msgid "Video Advanced > Color Depth"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Monitor Type"
+msgid "Status Bar"
 msgstr ""
 
 msgctxt "#30012"
+msgid "Floppy Sound"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Monitor Type"
+msgstr ""
+
+msgctxt "#30014"
 msgid "CPC Language"
 msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Status Bar"
+#~ msgstr "Barra de estado"
