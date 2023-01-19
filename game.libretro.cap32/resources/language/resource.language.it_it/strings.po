@@ -50,41 +50,57 @@ msgid "Controls > Use internal Remap DB"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Model"
+msgid "Light Gun > Input"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Advanced > Autorun"
+msgid "Light Gun > Show Crosshair"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Advanced > Ram size"
+msgid "Model"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Video > Green Phosphor blueish"
+msgid "Advanced > Autorun"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Video > Monitor Intensity"
+msgid "Advanced > Ram size"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Video Advanced > Color Depth"
+msgid "Video > Green Phosphor blueish"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Status Bar"
-msgstr "Barra di stato"
+msgid "Video > Monitor Intensity"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Floppy Sound"
+msgid "Video Advanced > Color Depth"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Monitor Type"
+msgid "Status Bar"
 msgstr ""
 
 msgctxt "#30014"
+msgid "Keyboard Transparency"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Floppy Sound"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Monitor Type"
+msgstr ""
+
+msgctxt "#30017"
 msgid "CPC Language"
 msgstr ""
+
+#~ msgctxt "#30011"
+#~ msgid "Status Bar"
+#~ msgstr "Barra di stato"
