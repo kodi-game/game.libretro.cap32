@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.cap32/resources/icon.png)
+![Amstrad - CPC/GX4000 (Caprice32) icon](game.libretro.cap32/resources/icon.png)
 
 ### Fanart
 
