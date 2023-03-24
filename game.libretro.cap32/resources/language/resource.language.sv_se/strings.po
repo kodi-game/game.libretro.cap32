@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.10.1\n"
 
 msgctxt "Addon Summary"
-msgid "Amstrad - CPC (Caprice32) 4.5 HI"
+msgid "Amstrad - CPC/GX4000 (Caprice32)"
 msgstr ""
 
 msgctxt "Addon Description"
