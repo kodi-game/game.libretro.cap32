@@ -25,6 +25,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Amstrad - CPC/GX4000 (Caprice32)</summary>
+		<summary lang="es_ES">Amstrad - CPC/GX4000 (Caprice32)</summary>
 		<description lang="da_DK">Caprice32 er en emulator til Amstrad CPC 8-bit computerserien. Den efterligner trofast CPC464-, CPC664- og CPC6128-modellerne.</description>
 		<description lang="de_DE">Caprice32 ist ein Emulator für die Heimcomputer-Serie Amstrad CPC 8-Bit. Er imitiert originalgetreu die Modelle CPC464, CPC664 und CPC6128.</description>
 		<description lang="en_GB">Caprice32 is an emulator for the Amstrad CPC 8-bit home computer series. It faithfully imitates the CPC464, CPC664, and CPC6128 models.</description>
