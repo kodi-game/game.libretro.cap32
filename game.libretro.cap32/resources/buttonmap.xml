@@ -52,7 +52,7 @@
     <feature name="r" mapto="RETROK_r"/>
     <feature name="s" mapto="RETROK_s"/>
     <feature name="t" mapto="RETROK_t"/>
-    <feature name="u" mapto="RETROK_r"/>
+    <feature name="u" mapto="RETROK_u"/>
     <feature name="v" mapto="RETROK_v"/>
     <feature name="w" mapto="RETROK_w"/>
     <feature name="x" mapto="RETROK_x"/>
