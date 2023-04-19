@@ -4,7 +4,7 @@
     <feature name="button1" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
     <feature name="button2" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
     <feature name="run" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
-    <feature name="vkbdtoggle" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+    <feature name="vkbtoggle" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
     <feature name="return" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
     <feature name="mousetoggle" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
@@ -60,41 +60,46 @@
     <feature name="z" mapto="RETROK_z"/>
     <feature name="space" mapto="RETROK_SPACE"/>
     <feature name="comma" mapto="RETROK_COMMA"/>
-    <feature name="period" mapto="RETROK_PERIOD"/>
-    <feature name="semicolon" mapto="RETROK_SEMICOLON"/>
+    <feature name="dot" mapto="RETROK_PERIOD"/>
+    <feature name="colon" mapto="RETROK_SEMICOLON"/>
     <feature name="minus" mapto="RETROK_MINUS"/>
-    <feature name="equals" mapto="RETROK_EQUALS"/>
+    <feature name="hat" mapto="RETROK_EQUALS"/>
     <feature name="at" mapto="RETROK_LEFTBRACKET"/>
     <feature name="openbracket" mapto="RETROK_RIGHTBRACKET"/>
     <feature name="tab" mapto="RETROK_TAB"/>
     <feature name="return" mapto="RETROK_RETURN"/>
-    <feature name="backspace" mapto="RETROK_BACKSPACE"/>
+    <feature name="del" mapto="RETROK_BACKSPACE"/>
     <feature name="esc" mapto="RETROK_ESCAPE"/>
     <feature name="up" mapto="RETROK_UP"/>
-    <feature name="right" mapto="RETROK_RIGHT"/>
     <feature name="down" mapto="RETROK_DOWN"/>
     <feature name="left" mapto="RETROK_LEFT"/>
-    <feature name="num0" mapto="RETROK_KP0"/>
-    <feature name="num1" mapto="RETROK_KP1"/>
-    <feature name="num2" mapto="RETROK_KP2"/>
-    <feature name="num3" mapto="RETROK_KP3"/>
-    <feature name="num4" mapto="RETROK_KP4"/>
-    <feature name="num5" mapto="RETROK_KP5"/>
-    <feature name="num6" mapto="RETROK_KP6"/>
-    <feature name="num7" mapto="RETROK_KP7"/>
-    <feature name="num8" mapto="RETROK_KP8"/>
-    <feature name="num9" mapto="RETROK_KP9"/>
-    <feature name="numperiod" mapto="RETROK_KP_PERIOD"/>
+    <feature name="right" mapto="RETROK_RIGHT"/>
+    <feature name="f0" mapto="RETROK_KP0"/>
+    <feature name="f1" mapto="RETROK_KP1"/>
+    <feature name="f2" mapto="RETROK_KP2"/>
+    <feature name="f3" mapto="RETROK_KP3"/>
+    <feature name="f4" mapto="RETROK_KP4"/>
+    <feature name="f5" mapto="RETROK_KP5"/>
+    <feature name="f6" mapto="RETROK_KP6"/>
+    <feature name="f7" mapto="RETROK_KP7"/>
+    <feature name="f8" mapto="RETROK_KP8"/>
+    <feature name="f9" mapto="RETROK_KP9"/>
+    <feature name="intro" mapto="RETROK_KP_ENTER"/>
+    <feature name="fdot" mapto="RETROK_KP_PERIOD"/>
+    <feature name="clr" mapto="RETROK_DELETE"/>
     <feature name="shift" mapto="RETROK_LSHIFT"/>
-    <feature name="ctrl" mapto="RETROK_LCTRL"/>
+    <feature name="control" mapto="RETROK_LCTRL"/>
     <feature name="capslock" mapto="RETROK_CAPSLOCK"/>
-    <feature name="numenter" mapto="RETROK_KP_ENTER"/>
-    <feature name="delete" mapto="RETROK_DELETE"/>
-    <feature name="end" mapto="RETROK_END"/>
-    <feature name="pageup" mapto="RETROK_PAGEUP"/>
-    <feature name="pagedown" mapto="RETROK_PAGEDOWN"/>
-    <feature name="ins" mapto="RETROK_INSERT"/>
-    <feature name="home" mapto="RETROK_HOME"/>
     <feature name="copy" mapto="RETROK_LALT"/>
+    <feature name="slash" mapto="RETROK_SLASH"/>
+    <feature name="backslash" mapto="RETROK_BACKQUOTE"/>
+    <feature name="semicolon" mapto="RETROK_QUOTE"/>
+    <feature name="closebracket" mapto="RETROK_BACKSLASH"/>
+    <feature name="vkbtoggle" mapto="RETROK_F9"/>
+    <feature name="gui" mapto="RETROK_F10"/>
+    <feature name="play" mapto="RETROK_HOME"/>
+    <feature name="stop" mapto="RETROK_END"/>
+    <feature name="rewind" mapto="RETROK_PAGEUP"/>
+    <feature name="mousetoggle" mapto="RETROK_INSERT"/>
   </controller>
 </buttonmap>
