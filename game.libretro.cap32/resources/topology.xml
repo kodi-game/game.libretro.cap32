@@ -8,6 +8,7 @@
   </port>
   <port type="controller" id="1">
     <accepts controller="game.controller.amstrad.joystick"/>
+    <accepts controller="game.controller.amstrad.keyboard"/>
   </port>
   <port type="controller" id="2">
     <accepts controller="game.controller.amstrad.joystick"/>
