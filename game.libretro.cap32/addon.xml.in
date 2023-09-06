@@ -6,7 +6,7 @@
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.amstrad.joystick" version="1.0.0"/>
-		<import addon="game.controller.amstrad.keyboard" version="1.0.0"/>
+		<import addon="game.controller.amstrad.keyboard" version="1.0.28"/>
 		<import addon="game.controller.mouse" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
