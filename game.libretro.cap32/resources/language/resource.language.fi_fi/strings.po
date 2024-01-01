@@ -101,6 +101,10 @@ msgctxt "#30017"
 msgid "CPC Language"
 msgstr ""
 
+msgctxt "#30018"
+msgid "Video Advanced > Crop Screen Borders"
+msgstr ""
+
 #~ msgctxt "#30012"
 #~ msgid "CPC Language"
 #~ msgstr "CPC-kieli"

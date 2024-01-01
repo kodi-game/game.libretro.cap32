@@ -100,3 +100,7 @@ msgstr "Monitortyp"
 msgctxt "#30017"
 msgid "CPC Language"
 msgstr "CPC-Sprache"
+
+msgctxt "#30018"
+msgid "Video Advanced > Crop Screen Borders"
+msgstr ""
