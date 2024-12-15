@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Written by Ulrich Doewich"
 msgstr "Geschrieben von Ulrich Doewich"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Controls > User 1 Controller Config"
 msgstr "Steuerung > Controllerkonfiguration Benutzer 1"
@@ -104,3 +100,7 @@ msgstr "CPC-Sprache"
 msgctxt "#30018"
 msgid "Video Advanced > Crop Screen Borders"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"

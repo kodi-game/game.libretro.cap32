@@ -28,10 +28,6 @@ msgctxt "Addon Disclaimer"
 msgid "Written by Ulrich Doewich"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Controls > User 1 Controller Config"
 msgstr ""
