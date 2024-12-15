@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="cap32_retrojoy0" values="auto|qaop|incentive|joystick_port1" default="auto"/>
 		<setting label="30002" type="select" id="cap32_retrojoy1" values="auto|qaop|incentive|joystick_port1|joystick_port2" default="auto"/>
 		<setting label="30003" type="select" id="cap32_combokey" values="select|y|b|disabled" default="select"/>
