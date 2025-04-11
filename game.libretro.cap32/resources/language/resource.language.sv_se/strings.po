@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.cap32\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-06 19:02+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-cap32/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "Caprice32 är en emulator för Amstrads CPC 8-bitars hemdatorserie. Den 
 
 msgctxt "Addon Disclaimer"
 msgid "Written by Ulrich Doewich"
-msgstr ""
+msgstr "Skriven av Ulrich Doewich"
 
 msgctxt "#30001"
 msgid "Controls > User 1 Controller Config"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#30007"
 msgid "Model"
-msgstr ""
+msgstr "Modell"
 
 msgctxt "#30008"
 msgid "Advanced > Autorun"
@@ -79,7 +79,7 @@ msgstr ""
 
 msgctxt "#30013"
 msgid "Status Bar"
-msgstr ""
+msgstr "Statusrad"
 
 msgctxt "#30014"
 msgid "Keyboard Transparency"
