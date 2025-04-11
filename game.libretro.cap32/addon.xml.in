@@ -41,6 +41,7 @@
 		<disclaimer lang="de_DE">Geschrieben von Ulrich Doewich</disclaimer>
 		<disclaimer lang="en_GB">Written by Ulrich Doewich</disclaimer>
 		<disclaimer lang="es_ES">Escrito por Ulrich Doewich</disclaimer>
+		<disclaimer lang="sv_SE">Skriven av Ulrich Doewich</disclaimer>
 		<disclaimer lang="zh_CN">作者：Ulrich Doewich</disclaimer>
 	</extension>
 </addon>
