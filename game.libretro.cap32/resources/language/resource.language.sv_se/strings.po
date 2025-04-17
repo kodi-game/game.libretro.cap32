@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.cap32\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-cap32/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Amstrad - CPC/GX4000 (Caprice32)"
@@ -29,29 +29,33 @@ msgctxt "Addon Disclaimer"
 msgid "Written by Ulrich Doewich"
 msgstr "Skriven av Ulrich Doewich"
 
+#, fuzzy
 msgctxt "#30001"
 msgid "Controls > User 1 Controller Config"
-msgstr ""
+msgstr "Kontroller > Användare 1 Styrenhetskonfiguration"
 
+#, fuzzy
 msgctxt "#30002"
 msgid "Controls > User 2 Controller Config"
-msgstr ""
+msgstr "Kontroller > Användare 2 Styrenhetskonfiguration"
 
+#, fuzzy
 msgctxt "#30003"
 msgid "Controls > Combo Key"
-msgstr ""
+msgstr "Kontroller > Kombinationstangent"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Controls > Use internal Remap DB"
-msgstr ""
+msgstr "Kontroller > Använd intern Remap DB"
 
 msgctxt "#30005"
 msgid "Light Gun > Input"
-msgstr ""
+msgstr "Ljuspistol > Inmatning"
 
 msgctxt "#30006"
 msgid "Light Gun > Show Crosshair"
-msgstr ""
+msgstr "Ljuspistol > Visa hårkors"
 
 msgctxt "#30007"
 msgid "Model"
@@ -59,23 +63,25 @@ msgstr "Modell"
 
 msgctxt "#30008"
 msgid "Advanced > Autorun"
-msgstr ""
+msgstr "Avancerat > Automatisk körning"
 
 msgctxt "#30009"
 msgid "Advanced > Ram size"
-msgstr ""
+msgstr "Avancerat > Ram-storlek"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Video > Green Phosphor blueish"
-msgstr ""
+msgstr "Video > Grön fosfor blåaktig"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Video > Monitor Intensity"
-msgstr ""
+msgstr "Video > Övervaka intensiteten"
 
 msgctxt "#30012"
 msgid "Video Advanced > Color Depth"
-msgstr ""
+msgstr "Video avancerat > Färgdjup"
 
 msgctxt "#30013"
 msgid "Status Bar"
@@ -83,23 +89,23 @@ msgstr "Statusrad"
 
 msgctxt "#30014"
 msgid "Keyboard Transparency"
-msgstr ""
+msgstr "Genomskinlighet för tangentbord"
 
 msgctxt "#30015"
 msgid "Floppy Sound"
-msgstr ""
+msgstr "Diskettljud"
 
 msgctxt "#30016"
 msgid "Monitor Type"
-msgstr ""
+msgstr "Monitortyp"
 
 msgctxt "#30017"
 msgid "CPC Language"
-msgstr ""
+msgstr "CPC-språk"
 
 msgctxt "#30018"
 msgid "Video Advanced > Crop Screen Borders"
-msgstr ""
+msgstr "Video avancerat > Beskär skärmkanter"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
