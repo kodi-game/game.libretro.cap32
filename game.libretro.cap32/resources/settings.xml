@@ -12,7 +12,7 @@
 		<setting label="30009" type="select" id="cap32_ram" values="128|64|192|576" default="128"/>
 		<setting label="30010" type="select" id="cap32_advanced_green_phosphor" values="15|20|30|5|10" default="15"/>
 		<setting label="30011" type="select" id="cap32_scr_intensity" values="8|9|10|11|12|13|14|15|5|6|7" default="8"/>
-		<setting label="30012" type="select" id="cap32_gfx_colors" values="16bit|24bit" default="16bit"/>
+		<setting label="30012" type="select" id="cap32_gfx_colors" values="16bit|24bit|8bit" default="16bit"/>
 		<setting label="30018" type="select" id="cap32_scr_crop" values="disabled|enabled" default="disabled"/>
 		<setting label="30013" type="select" id="cap32_statusbar" values="onloading|enabled|disabled" default="onloading"/>
 		<setting label="30014" type="select" id="cap32_keyboard_transparency" values="disabled|enabled" default="disabled"/>
