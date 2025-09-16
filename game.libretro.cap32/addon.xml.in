@@ -27,6 +27,7 @@
 		<summary lang="da_DK">Amstrad - CPC/GX4000 (Caprice32)</summary>
 		<summary lang="en_GB">Amstrad - CPC/GX4000 (Caprice32)</summary>
 		<summary lang="es_ES">Amstrad - CPC/GX4000 (Caprice32)</summary>
+		<summary lang="ga">Amstrad - CPC/GX4000 (Caprice32)</summary>
 		<summary lang="it_IT">Amstrad - CPC/GX4000 (Caprice32)</summary>
 		<summary lang="sv_SE">Amstrad - CPC/GX4000 (Caprice32)</summary>
 		<summary lang="zh_CN">Amstrad - CPC/GX4000 (Caprice32)</summary>
@@ -34,6 +35,7 @@
 		<description lang="de_DE">Caprice32 ist ein Emulator für die Heimcomputer-Serie Amstrad CPC 8-Bit. Er imitiert originalgetreu die Modelle CPC464, CPC664 und CPC6128.</description>
 		<description lang="en_GB">Caprice32 is an emulator for the Amstrad CPC 8-bit home computer series. It faithfully imitates the CPC464, CPC664, and CPC6128 models.</description>
 		<description lang="es_ES">Caprice32 es un emulador para la serie de ordenadores domésticos Amstrad CPC de 8 bits. Imita fielmente los modelos CPC464, CPC664 y CPC6128.</description>
+		<description lang="ga">Is aithriseoir é Caprice32 do shraith ríomhairí baile 8-giotán Amstrad CPC. Déanann sé aithris dhílis ar na samhlacha CPC464, CPC664, agus CPC6128.</description>
 		<description lang="it_IT">Caprice32 è un emulatore per la serie di computer domestici Amstrad CPC a 8 bit. Imita fedelmente i modelli CPC464, CPC664 e CPC6128.</description>
 		<description lang="sv_SE">Caprice32 är en emulator för Amstrads CPC 8-bitars hemdatorserie. Den imiterar modellerna CPC464, CPC664 och CPC6128 på ett trovärdigt sätt.</description>
 		<description lang="zh_CN">Caprice32 是 Amstrad CPC 8位家用电脑系列的模拟器。它忠实地仿真了 CPC464、CPC664 和 CPC6128 机型。</description>
@@ -41,6 +43,7 @@
 		<disclaimer lang="de_DE">Geschrieben von Ulrich Doewich</disclaimer>
 		<disclaimer lang="en_GB">Written by Ulrich Doewich</disclaimer>
 		<disclaimer lang="es_ES">Escrito por Ulrich Doewich</disclaimer>
+		<disclaimer lang="ga">Scríofa ag Ulrich Doewich</disclaimer>
 		<disclaimer lang="sv_SE">Skriven av Ulrich Doewich</disclaimer>
 		<disclaimer lang="zh_CN">作者：Ulrich Doewich</disclaimer>
 	</extension>
