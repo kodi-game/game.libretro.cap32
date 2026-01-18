@@ -73,10 +73,6 @@ msgctxt "#30011"
 msgid "Video > Monitor Intensity"
 msgstr "Vídeo > Intensidad del Monitor"
 
-msgctxt "#30012"
-msgid "Video Advanced > Color Depth"
-msgstr "Vídeo Avanzado > Profundidad de Color"
-
 msgctxt "#30013"
 msgid "Status Bar"
 msgstr "Barra de Estado"
@@ -97,9 +93,21 @@ msgctxt "#30017"
 msgid "CPC Language"
 msgstr "Lenguaje CPC"
 
-msgctxt "#30018"
-msgid "Video Advanced > Crop Screen Borders"
-msgstr "Video Avanzado > Recortar Bordes de Pantalla"
+msgctxt "#30019"
+msgid "Video > Color Depth"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Video > Crop Screen Borders"
+msgstr ""
+
+#~ msgctxt "#30012"
+#~ msgid "Video Advanced > Color Depth"
+#~ msgstr "Vídeo Avanzado > Profundidad de Color"
+
+#~ msgctxt "#30018"
+#~ msgid "Video Advanced > Crop Screen Borders"
+#~ msgstr "Video Avanzado > Recortar Bordes de Pantalla"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

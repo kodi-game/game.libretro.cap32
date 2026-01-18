@@ -73,10 +73,6 @@ msgctxt "#30011"
 msgid "Video > Monitor Intensity"
 msgstr "Video > Intensitet på monitor"
 
-msgctxt "#30012"
-msgid "Video Advanced > Color Depth"
-msgstr "Video avanceret > Farvedybde"
-
 msgctxt "#30013"
 msgid "Status Bar"
 msgstr "Statuslinje"
@@ -97,9 +93,17 @@ msgctxt "#30017"
 msgid "CPC Language"
 msgstr "CPC sprog"
 
-msgctxt "#30018"
-msgid "Video Advanced > Crop Screen Borders"
+msgctxt "#30019"
+msgid "Video > Color Depth"
 msgstr ""
+
+msgctxt "#30020"
+msgid "Video > Crop Screen Borders"
+msgstr ""
+
+#~ msgctxt "#30012"
+#~ msgid "Video Advanced > Color Depth"
+#~ msgstr "Video avanceret > Farvedybde"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

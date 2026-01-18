@@ -73,10 +73,6 @@ msgctxt "#30011"
 msgid "Video > Monitor Intensity"
 msgstr "视频 > 监视器强度"
 
-msgctxt "#30012"
-msgid "Video Advanced > Color Depth"
-msgstr "视频高级 > 颜色深度"
-
 msgctxt "#30013"
 msgid "Status Bar"
 msgstr "状态栏"
@@ -97,9 +93,21 @@ msgctxt "#30017"
 msgid "CPC Language"
 msgstr "CPC 语言"
 
-msgctxt "#30018"
-msgid "Video Advanced > Crop Screen Borders"
-msgstr "视频高级 > 裁剪屏幕边框"
+msgctxt "#30019"
+msgid "Video > Color Depth"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Video > Crop Screen Borders"
+msgstr ""
+
+#~ msgctxt "#30012"
+#~ msgid "Video Advanced > Color Depth"
+#~ msgstr "视频高级 > 颜色深度"
+
+#~ msgctxt "#30018"
+#~ msgid "Video Advanced > Crop Screen Borders"
+#~ msgstr "视频高级 > 裁剪屏幕边框"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
