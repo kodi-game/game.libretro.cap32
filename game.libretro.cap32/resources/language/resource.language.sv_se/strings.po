@@ -29,54 +29,9 @@ msgctxt "Addon Disclaimer"
 msgid "Written by Ulrich Doewich"
 msgstr "Skriven av Ulrich Doewich"
 
-#, fuzzy
-msgctxt "#30001"
-msgid "Controls > User 1 Controller Config"
-msgstr "Kontroller > Användare 1 Styrenhetskonfiguration"
-
-#, fuzzy
-msgctxt "#30002"
-msgid "Controls > User 2 Controller Config"
-msgstr "Kontroller > Användare 2 Styrenhetskonfiguration"
-
-msgctxt "#30003"
-msgid "Controls > Combo Key"
-msgstr "Kontroller > Kombinationstangent"
-
-#, fuzzy
-msgctxt "#30004"
-msgid "Controls > Use internal Remap DB"
-msgstr "Kontroller > Använd intern Remap DB"
-
-msgctxt "#30005"
-msgid "Light Gun > Input"
-msgstr "Ljuspistol > Inmatning"
-
-msgctxt "#30006"
-msgid "Light Gun > Show Crosshair"
-msgstr "Ljuspistol > Visa hårkors"
-
 msgctxt "#30007"
 msgid "Model"
 msgstr "Modell"
-
-msgctxt "#30008"
-msgid "Advanced > Autorun"
-msgstr "Avancerat > Automatisk körning"
-
-msgctxt "#30009"
-msgid "Advanced > Ram size"
-msgstr "Avancerat > Ram-storlek"
-
-#, fuzzy
-msgctxt "#30010"
-msgid "Video > Green Phosphor blueish"
-msgstr "Video > Grön fosfor blåaktig"
-
-#, fuzzy
-msgctxt "#30011"
-msgid "Video > Monitor Intensity"
-msgstr "Video > Övervaka intensiteten"
 
 msgctxt "#30013"
 msgid "Status Bar"
@@ -98,13 +53,118 @@ msgctxt "#30017"
 msgid "CPC Language"
 msgstr "CPC-språk"
 
-msgctxt "#30019"
-msgid "Video > Color Depth"
+msgctxt "#30021"
+msgid "System"
 msgstr ""
 
-msgctxt "#30020"
-msgid "Video > Crop Screen Borders"
+msgctxt "#30022"
+msgid "Video"
 msgstr ""
+
+msgctxt "#30023"
+msgid "Green Phosphor blueish"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Monitor Intensity"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Color Depth"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Crop Screen Borders"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Controls"
+msgstr ""
+
+msgctxt "#30028"
+msgid "User 1 Controller Config"
+msgstr ""
+
+msgctxt "#30029"
+msgid "User 2 Controller Config"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Combo Key"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Use internal Remap DB"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Light Gun"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Show Crosshair"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Autorun"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Ram size"
+msgstr ""
+
+#, fuzzy
+#~ msgctxt "#30001"
+#~ msgid "Controls > User 1 Controller Config"
+#~ msgstr "Kontroller > Användare 1 Styrenhetskonfiguration"
+
+#, fuzzy
+#~ msgctxt "#30002"
+#~ msgid "Controls > User 2 Controller Config"
+#~ msgstr "Kontroller > Användare 2 Styrenhetskonfiguration"
+
+#~ msgctxt "#30003"
+#~ msgid "Controls > Combo Key"
+#~ msgstr "Kontroller > Kombinationstangent"
+
+#, fuzzy
+#~ msgctxt "#30004"
+#~ msgid "Controls > Use internal Remap DB"
+#~ msgstr "Kontroller > Använd intern Remap DB"
+
+#~ msgctxt "#30005"
+#~ msgid "Light Gun > Input"
+#~ msgstr "Ljuspistol > Inmatning"
+
+#~ msgctxt "#30006"
+#~ msgid "Light Gun > Show Crosshair"
+#~ msgstr "Ljuspistol > Visa hårkors"
+
+#~ msgctxt "#30008"
+#~ msgid "Advanced > Autorun"
+#~ msgstr "Avancerat > Automatisk körning"
+
+#~ msgctxt "#30009"
+#~ msgid "Advanced > Ram size"
+#~ msgstr "Avancerat > Ram-storlek"
+
+#, fuzzy
+#~ msgctxt "#30010"
+#~ msgid "Video > Green Phosphor blueish"
+#~ msgstr "Video > Grön fosfor blåaktig"
+
+#, fuzzy
+#~ msgctxt "#30011"
+#~ msgid "Video > Monitor Intensity"
+#~ msgstr "Video > Övervaka intensiteten"
 
 #~ msgctxt "#30012"
 #~ msgid "Video Advanced > Color Depth"
