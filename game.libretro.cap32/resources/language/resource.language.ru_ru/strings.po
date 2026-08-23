@@ -121,6 +121,46 @@ msgctxt "#30037"
 msgid "Ram size"
 msgstr ""
 
+msgctxt "#30038"
+msgid "onloading"
+msgstr ""
+
+msgctxt "#30039"
+msgid "qaop"
+msgstr ""
+
+msgctxt "#30040"
+msgid "incentive"
+msgstr ""
+
+msgctxt "#30041"
+msgid "joystick_port1"
+msgstr ""
+
+msgctxt "#30042"
+msgid "joystick_port2"
+msgstr ""
+
+msgctxt "#30043"
+msgid "select"
+msgstr ""
+
+msgctxt "#30044"
+msgid "y"
+msgstr ""
+
+msgctxt "#30045"
+msgid "b"
+msgstr ""
+
+msgctxt "#30046"
+msgid "phaser"
+msgstr ""
+
+msgctxt "#30047"
+msgid "gunstick"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Controls > User 1 Controller Config"
 #~ msgstr "Управление > Конфигурация контроллера пользователя 1"
