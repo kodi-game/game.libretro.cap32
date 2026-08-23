@@ -21,9 +21,9 @@
 					<default>onloading</default>
 					<constraints>
 						<options>
-							<option>onloading</option>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="30038">onloading</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -33,8 +33,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -44,8 +44,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -117,8 +117,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -144,10 +144,10 @@
 					<default>auto</default>
 					<constraints>
 						<options>
-							<option>auto</option>
-							<option>qaop</option>
-							<option>incentive</option>
-							<option>joystick_port1</option>
+							<option label="16316">auto</option>
+							<option label="30039">qaop</option>
+							<option label="30040">incentive</option>
+							<option label="30041">joystick_port1</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -157,11 +157,11 @@
 					<default>auto</default>
 					<constraints>
 						<options>
-							<option>auto</option>
-							<option>qaop</option>
-							<option>incentive</option>
-							<option>joystick_port1</option>
-							<option>joystick_port2</option>
+							<option label="16316">auto</option>
+							<option label="30039">qaop</option>
+							<option label="30040">incentive</option>
+							<option label="30041">joystick_port1</option>
+							<option label="30042">joystick_port2</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -171,10 +171,10 @@
 					<default>select</default>
 					<constraints>
 						<options>
-							<option>select</option>
-							<option>y</option>
-							<option>b</option>
-							<option>disabled</option>
+							<option label="30043">select</option>
+							<option label="30044">y</option>
+							<option label="30045">b</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -184,8 +184,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -199,9 +199,9 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>phaser</option>
-							<option>gunstick</option>
+							<option label="13106">disabled</option>
+							<option label="30046">phaser</option>
+							<option label="30047">gunstick</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -211,8 +211,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -226,8 +226,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
