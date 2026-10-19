@@ -53,14 +53,6 @@ msgctxt "#30017"
 msgid "CPC Language"
 msgstr "CPC sprog"
 
-msgctxt "#30019"
-msgid "Video > Color Depth"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Video > Crop Screen Borders"
-msgstr ""
-
 msgctxt "#30021"
 msgid "System"
 msgstr ""
@@ -161,12 +153,44 @@ msgctxt "#30045"
 msgid "b"
 msgstr ""
 
-msgctxt "#30046"
-msgid "phaser"
+msgctxt "#30048"
+msgid "Tape Loading Speed"
 msgstr ""
 
-msgctxt "#30047"
-msgid "gunstick"
+msgctxt "#30049"
+msgid "Fast-forward while the tape is running and the program frequently reads its input. Internal timing is unchanged. Toggle frontend fast-forward off to cancel until the tape stops. Requires frontend fast-forward override support."
+msgstr ""
+
+msgctxt "#30050"
+msgid "Normal"
+msgstr ""
+
+msgctxt "#30051"
+msgid "4x"
+msgstr ""
+
+msgctxt "#30052"
+msgid "8x"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Maximum"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Amstrad Magnum Phaser"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Gun-Stick"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Loriciel West Phaser"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Trojan Phazer (CPC Plus / GX4000)"
 msgstr ""
 
 #~ msgctxt "#30001"
