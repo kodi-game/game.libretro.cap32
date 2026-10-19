@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.cap32"
 		name="Amstrad - CPC/GX4000 (Caprice32)"
-		version="4.5.4.52"
+		version="4.5.4.53"
 		provider-name="Ulrich Doewich, dantoine">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -11,12 +11,12 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>Amstrad</platforms>
+		<platforms>Amstrad - CPC/GX4000</platforms>
 		<extensions>dsk|sna|zip|tap|cdt|voc|cpr|m3u</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>true</supports_standalone>
 		<supports_disc_control>true</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>cap32_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>

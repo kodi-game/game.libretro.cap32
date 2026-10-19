@@ -9,9 +9,34 @@
 					<constraints>
 						<options>
 							<option>464</option>
+							<option>464DDI</option>
 							<option>664</option>
 							<option>6128</option>
 							<option>6128+ (experimental)</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_tape_fastload" type="string" label="30048" help="30049">
+					<level>0</level>
+					<default>maximum</default>
+					<constraints>
+						<options>
+							<option label="30050">disabled</option>
+							<option label="30051">4</option>
+							<option label="30052">8</option>
+							<option label="30053">maximum</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_autorun" type="string" label="30036">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -200,8 +225,10 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option label="30046">phaser</option>
-							<option label="30047">gunstick</option>
+							<option label="30054">phaser</option>
+							<option label="30055">gunstick</option>
+							<option label="30056">west_phaser</option>
+							<option label="30057">trojan_phazer</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -221,17 +248,6 @@
 		</category>
 		<category id="advanced" label="30035">
 			<group id="1">
-				<setting id="cap32_autorun" type="string" label="30036">
-					<level>0</level>
-					<default>enabled</default>
-					<constraints>
-						<options>
-							<option label="305">enabled</option>
-							<option label="13106">disabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
 				<setting id="cap32_ram" type="string" label="30037">
 					<level>0</level>
 					<default>128</default>
