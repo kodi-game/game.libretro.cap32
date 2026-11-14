@@ -153,6 +153,14 @@ msgctxt "#30045"
 msgid "b"
 msgstr ""
 
+msgctxt "#30046"
+msgid "phaser"
+msgstr ""
+
+msgctxt "#30047"
+msgid "gunstick"
+msgstr ""
+
 msgctxt "#30048"
 msgid "Tape Loading Speed"
 msgstr ""
@@ -191,6 +199,14 @@ msgstr ""
 
 msgctxt "#30057"
 msgid "Trojan Phazer (CPC Plus / GX4000)"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Emulate Strict ASIC PPI Bug"
+msgstr ""
+
+msgctxt "#30059"
+msgid "6128+ only. Reproduces a known design flaw in the CPC+ ASIC (8255 PPI chip) where changing port modes interferes with the AY sound chip. While accurate to real hardware, turning this ON breaks keyboard reading in several classic games (e.g. Comando Quatro, Antiriad). Keep OFF for best compatibility."
 msgstr ""
 
 #~ msgctxt "#30001"

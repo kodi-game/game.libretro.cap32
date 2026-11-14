@@ -193,6 +193,14 @@ msgctxt "#30057"
 msgid "Trojan Phazer (CPC Plus / GX4000)"
 msgstr "Trojan Phazer (CPC Plus / GX4000)"
 
+msgctxt "#30058"
+msgid "Emulate Strict ASIC PPI Bug"
+msgstr ""
+
+msgctxt "#30059"
+msgid "6128+ only. Reproduces a known design flaw in the CPC+ ASIC (8255 PPI chip) where changing port modes interferes with the AY sound chip. While accurate to real hardware, turning this ON breaks keyboard reading in several classic games (e.g. Comando Quatro, Antiriad). Keep OFF for best compatibility."
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Controls > User 1 Controller Config"
 #~ msgstr "Ovládání > konfigurace ovladače uživatele 1"
