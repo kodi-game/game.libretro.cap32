@@ -12,7 +12,30 @@
 							<option>464DDI</option>
 							<option>664</option>
 							<option>6128</option>
-							<option>6128+ (experimental)</option>
+							<option>6128+</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_lang_layout" type="string" label="30017">
+					<level>0</level>
+					<default>english</default>
+					<constraints>
+						<options>
+							<option>english</option>
+							<option>french</option>
+							<option>spanish</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_autorun" type="string" label="30036">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -30,40 +53,6 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="cap32_autorun" type="string" label="30036">
-					<level>0</level>
-					<default>enabled</default>
-					<constraints>
-						<options>
-							<option label="305">enabled</option>
-							<option label="13106">disabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="cap32_statusbar" type="string" label="30013">
-					<level>0</level>
-					<default>onloading</default>
-					<constraints>
-						<options>
-							<option label="30038">onloading</option>
-							<option label="305">enabled</option>
-							<option label="13106">disabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="cap32_keyboard_transparency" type="string" label="30014">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option label="305">enabled</option>
-							<option label="13106">disabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
 				<setting id="cap32_floppy_sound" type="string" label="30015">
 					<level>0</level>
 					<default>enabled</default>
@@ -71,91 +60,6 @@
 						<options>
 							<option label="305">enabled</option>
 							<option label="13106">disabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="cap32_lang_layout" type="string" label="30017">
-					<level>0</level>
-					<default>english</default>
-					<constraints>
-						<options>
-							<option>english</option>
-							<option>french</option>
-							<option>spanish</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-			</group>
-		</category>
-		<category id="video" label="30022">
-			<group id="1">
-				<setting id="cap32_advanced_green_phosphor" type="string" label="30023">
-					<level>0</level>
-					<default>15</default>
-					<constraints>
-						<options>
-							<option>5</option>
-							<option>10</option>
-							<option>15</option>
-							<option>20</option>
-							<option>30</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="cap32_scr_intensity" type="string" label="30024">
-					<level>0</level>
-					<default>8</default>
-					<constraints>
-						<options>
-							<option>5</option>
-							<option>6</option>
-							<option>7</option>
-							<option>8</option>
-							<option>9</option>
-							<option>10</option>
-							<option>11</option>
-							<option>12</option>
-							<option>13</option>
-							<option>14</option>
-							<option>15</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="cap32_gfx_colors" type="string" label="30025">
-					<level>0</level>
-					<default>16bit</default>
-					<constraints>
-						<options>
-							<option>8bit</option>
-							<option>16bit</option>
-							<option>24bit</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="cap32_scr_crop" type="string" label="30026">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option label="305">enabled</option>
-							<option label="13106">disabled</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="cap32_scr_tube" type="string" label="30016">
-					<level>0</level>
-					<default>color</default>
-					<constraints>
-						<options>
-							<option>color</option>
-							<option>green</option>
-							<option>white</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -246,6 +150,90 @@
 				</setting>
 			</group>
 		</category>
+		<category id="video" label="30022">
+			<group id="1">
+				<setting id="cap32_scr_tube" type="string" label="30016">
+					<level>0</level>
+					<default>color</default>
+					<constraints>
+						<options>
+							<option>color</option>
+							<option>green</option>
+							<option>white</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_scr_crop" type="string" label="30026">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_scr_intensity" type="string" label="30024">
+					<level>0</level>
+					<default>8</default>
+					<constraints>
+						<options>
+							<option>5</option>
+							<option>6</option>
+							<option>7</option>
+							<option>8</option>
+							<option>9</option>
+							<option>10</option>
+							<option>11</option>
+							<option>12</option>
+							<option>13</option>
+							<option>14</option>
+							<option>15</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_advanced_green_phosphor" type="string" label="30023">
+					<level>0</level>
+					<default>15</default>
+					<constraints>
+						<options>
+							<option>5</option>
+							<option>10</option>
+							<option>15</option>
+							<option>20</option>
+							<option>30</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_statusbar" type="string" label="30013">
+					<level>0</level>
+					<default>onloading</default>
+					<constraints>
+						<options>
+							<option label="30038">onloading</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_keyboard_transparency" type="string" label="30014">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+			</group>
+		</category>
 		<category id="advanced" label="30035">
 			<group id="1">
 				<setting id="cap32_ram" type="string" label="30037">
@@ -257,6 +245,29 @@
 							<option>128</option>
 							<option>192</option>
 							<option>576</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_strict_asic_ppi" type="string" label="30058" help="30059">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="cap32_gfx_colors" type="string" label="30025">
+					<level>0</level>
+					<default>16bit</default>
+					<constraints>
+						<options>
+							<option>8bit</option>
+							<option>16bit</option>
+							<option>24bit</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
